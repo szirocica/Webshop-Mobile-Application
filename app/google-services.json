@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "915033398883",
+    "project_id": "androidshop-32a48",
+    "storage_bucket": "androidshop-32a48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915033398883:android:0664e9bfe9f01d8409a256",
+        "android_client_info": {
+          "package_name": "com.example.fasszo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915033398883-3fodd8rhe70t203p6589qptiuparrpqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fasszo",
+            "certificate_hash": "50a60f398e3279d48c6460a9a5a58b71327f13b5"
+          }
+        },
+        {
+          "client_id": "915033398883-qfd0vgl3fcophrs39c7g7jtugsq3r99n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5K1LqCwMAzHaOcYTRhLwpfYHhSBgp4sk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915033398883-qfd0vgl3fcophrs39c7g7jtugsq3r99n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

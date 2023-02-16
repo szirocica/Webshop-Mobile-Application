@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Shop</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="regisztracio">Regisztráció</string>
+    <string name="user_name">User Name</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="phones">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+
+    <string name="title_placeholder">Név</string>
+    <string name="item_placeholder">Leírás</string>
+    <string name="item_info_placeholder">Infó a termékről</string>
+    <string name="please_stand_by">Please Stand By</string>
+    <string name="login_with_google">Login with Google</string>
+    <string name="enter_e_mail_adress">Enter E-mail Adress</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="postal_address">Postal Address</string>
+    <string name="costumer">Costumer</string>
+    <string name="seller">Seller</string>
+    <string name="delete">Delete</string>
+    <string name="information_about_product">Information about product</string>
+
+    <string-array name="shopping_item_names">
+        <item>SmartPhone</item>
+        <item>Tablet</item>
+        <item>Gamer Pc</item>
+        <item>Oled Tv</item>
+        <item>Bicycle</item>
+        <item>Lego</item>
+        <item>Costume</item>
+        <item>Sport tools</item>
+        <item>Kitchen apparel</item>
+        <item>Furniture</item>
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>This is a smartphone</item>
+        <item>This is a tablet</item>
+        <item>This is a gamer Pc</item>
+        <item>This is a Oled Tv</item>
+        <item>This is a bicycle</item>
+        <item>This is a lego</item>
+        <item>This is a costume</item>
+        <item>This is a sport tools</item>
+        <item>This is a kitchen apparel</item>
+        <item>This is a furniture</item>
+    </string-array>
+
+    <string-array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>3</item>
+        <item>5</item>
+        <item>1</item>
+        <item>4.4</item>
+        <item>0</item>
+        <item>3</item>
+        <item>1.5</item>
+        <item>2.4</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="shopping_item_images">
+        <item>@drawable/smart_phone</item>
+        <item>@drawable/tablet</item>
+        <item>@drawable/pc</item>
+        <item>@drawable/oled_tv</item>
+        <item>@drawable/bike</item>
+        <item>@drawable/lego</item>
+        <item>@drawable/custome</item>
+        <item>@drawable/sport_tools</item>
+        <item>@drawable/kitchen</item>
+        <item>@drawable/furniture</item>
+    </string-array>
+
+    <string-array name="shopping_item_price">
+        <item>100 Dv</item>
+        <item>100 Dv</item>
+        <item>100 Dv</item>
+        <item>100 Dv</item>
+        <item>100 Dv</item>
+        <item>100 Dv</item>
+        <item>100 Dv</item>
+        <item>100 Dv</item>
+        <item>100 Dv</item>
+        <item>100 Dv</item>
+    </string-array>
+</resources>
