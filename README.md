@@ -9,5 +9,5 @@ The application allows registration (with email address and a minimum 6 characte
 Create, Read, Update, Delete products in the store.<br>
 Delete: swipe right<br>
 Update: swipe left<br>
-Create, Read: dedicated button fot both<br> 
+Create, Read: dedicated button for both<br> 
 
